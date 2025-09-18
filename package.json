@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/benjarong47-3/agent-wallboard-learn#readme",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^5.1.0"
   },
   "devDependencies": {
